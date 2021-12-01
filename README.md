@@ -6,10 +6,10 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 							BEM VINDOS AO MEU PERFIL NO GITHUB ツ
-
-
-
-
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
 Olá, me chamo Felipe Moreira e sou estudante de Engenharia de Software na Universidade Federal de Goiás,
 atualmente estou cursando o segundo período. Sou um entusiasta quando o assunto é programação, em especial
 o desenvolvimento web e de games!
