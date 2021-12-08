@@ -2,6 +2,12 @@
 	<b> BEM VINDOS AO MEU PERFIL NO GITHUB 😀 </b>
 </div>
 
+<div align="center">⠀⠀⠀⠀⠀⠀⠀
+	
+	
+	
+</div>
+
 ![FELIPE MOREIRA](https://user-images.githubusercontent.com/93204665/144315779-eceba104-4f91-47db-ab08-6bd67ac9b656.png)
 					
 
